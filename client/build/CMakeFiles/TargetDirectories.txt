@@ -1,3 +1,0 @@
-/home/hyper/Desktop/152120201062/linux/build/CMakeFiles/ClientNode.dir
-/home/hyper/Desktop/152120201062/linux/build/CMakeFiles/edit_cache.dir
-/home/hyper/Desktop/152120201062/linux/build/CMakeFiles/rebuild_cache.dir
