@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GyroSensorNode.dir/GyroSensorNode.cpp.o CMakeFiles/GyroSensorNode.dir/src/SocketConLib.cpp.o CMakeFiles/GyroSensorNode.dir/src/GyroLib.cpp.o -o GyroSensorNode  -lwiringPi 

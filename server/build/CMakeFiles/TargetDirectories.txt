@@ -1,0 +1,5 @@
+/home/pi/SP/Project/build/CMakeFiles/DigitalIONode.dir
+/home/pi/SP/Project/build/CMakeFiles/GyroSensorNode.dir
+/home/pi/SP/Project/build/CMakeFiles/ServerNode.dir
+/home/pi/SP/Project/build/CMakeFiles/edit_cache.dir
+/home/pi/SP/Project/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DigitalIONode.dir/DigitalIONode.cpp.o CMakeFiles/DigitalIONode.dir/src/SocketConLib.cpp.o CMakeFiles/DigitalIONode.dir/src/DigSensorLib.cpp.o CMakeFiles/DigitalIONode.dir/src/RelayLib.cpp.o CMakeFiles/DigitalIONode.dir/src/KeypadLib.cpp.o CMakeFiles/DigitalIONode.dir/src/GyroLib.cpp.o -o DigitalIONode  -lgpiod -lwiringPi 
